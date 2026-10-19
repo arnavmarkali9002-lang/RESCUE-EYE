@@ -1,0 +1,8 @@
+{
+  "name": "minipro-root",
+  "version": "1.0.0",
+  "description": "Rescue Eye - AI-Powered Flood Prediction & Early Warning Platform",
+  "scripts": {
+    "start": "node minipro-main/server.js"
+  }
+}
